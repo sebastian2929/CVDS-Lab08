@@ -1,4 +1,4 @@
-# CVDS_Lab05
+# CVDS_Lab08
  * Sebastian Blanco
- * Jose Correa
+No se logro terminar el laboratorio 
 
