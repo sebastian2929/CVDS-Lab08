@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:20:07 -0500] "GET / HTTP/1.1" 200 68 http-bio-8080-exec-1 1048
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:20:07 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:20:31 -0500] "GET /face/guess.xhtml HTTP/1.1" 404 983 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:20:42 -0500] "GET /face/guess.html HTTP/1.1" 404 981 http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:20:51 -0500] "GET /face/Guess.html HTTP/1.1" 404 981 http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:20:57 -0500] "GET /faces/Guess.html HTTP/1.1" 404 971 http-bio-8080-exec-7 8
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:03 -0500] "GET /faces/guess.html HTTP/1.1" 404 971 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/guess.xhtml HTTP/1.1" 200 4838 http-bio-8080-exec-9 161
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/javax.faces.resource/primeicons/primeicons.css?ln=primefaces&v=10.0.0-RC2 HTTP/1.1" 200 8922 http-bio-8080-exec-10 22
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/javax.faces.resource/core.js?ln=primefaces&v=10.0.0-RC2 HTTP/1.1" 200 55829 http-bio-8080-exec-5 6
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/javax.faces.resource/components.js?ln=primefaces&v=10.0.0-RC2 HTTP/1.1" 200 479298 http-bio-8080-exec-6 10
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/javax.faces.resource/jquery/jquery.js?ln=primefaces&v=10.0.0-RC2 HTTP/1.1" 200 89568 http-bio-8080-exec-4 16
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/javax.faces.resource/jquery/jquery-plugins.js?ln=primefaces&v=10.0.0-RC2 HTTP/1.1" 200 262369 http-bio-8080-exec-10 5
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/javax.faces.resource/components.css?ln=primefaces&v=10.0.0-RC2 HTTP/1.1" 200 104383 http-bio-8080-exec-3 52
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:21:23 -0500] "GET /faces/javax.faces.resource/theme.css?ln=primefaces-saga&v=10.0.0-RC2 HTTP/1.1" 200 242854 http-bio-8080-exec-9 91
+0:0:0:0:0:0:0:1 - - [13/Apr/2023:13:23:10 -0500] "GET /guess.xhtml HTTP/1.1" 200 1269 http-bio-8080-exec-1 2
